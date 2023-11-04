@@ -1,0 +1,3 @@
+[submodule "rnbt"]
+	path = src/core/rnbt
+	url = https://github.com/mrmarkolinus/rnbt
