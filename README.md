@@ -1,2 +1,2 @@
-# redstone-genius
+# mumbo-ai
 generate redstone with AI
